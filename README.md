@@ -112,10 +112,6 @@ ${\color{#b57690}\text{Other}}$
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=feb7d3&height=1" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=feb7d3&height=1" />
-</p>
-
 ### ${\color{#ef6d8b}\text{Stats}}$
 
 <p align="center">
