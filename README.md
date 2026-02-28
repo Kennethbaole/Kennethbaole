@@ -86,31 +86,6 @@ ${\color{#b57690}\text{Other}}$
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=feb7d3&height=1" />
 </p>
 
-### ${\color{#e93c65}\text{Featured Projects}}$
-
-<div align="left">
-  <a href="https://github.com/kennethbaole/formify">
-    <img src="https://img.shields.io/badge/🏆_Formify-e93c65?style=for-the-badge" />
-  </a>
-  &nbsp;&nbsp;
-  Gesture-driven form interaction
-  <br/><br/>
-  <a href="https://github.com/kennethbaole/imagicle">
-    <img src="https://img.shields.io/badge/🚀_Imagicle-ef6d8b?style=for-the-badge" />
-  </a>
-  &nbsp;&nbsp;
-  Prompt-to-3D generator on GCP
-  <br/><br/>
-  <a href="https://github.com/kennethbaole/driveapi">
-    <img src="https://img.shields.io/badge/🔧_DriveAPI-feb7d3?style=for-the-badge" />
-  </a>
-  &nbsp;&nbsp;
-  RESTful file management API
-</div>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=feb7d3&height=1" />
-</p>
 
 ### ${\color{#ef6d8b}\text{Stats}}$
 
