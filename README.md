@@ -90,11 +90,6 @@ ${\color{#b57690}\text{Other}}$
 ### ${\color{#ef6d8b}\text{Stats}}$
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kennethbaole&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e93c65&icon_color=feb7d3&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennethbaole&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e93c65&text_color=c9d1d9" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kennethbaole&theme=tokyonight&hide_border=true&background=0d1117&ring=e93c65&fire=ef6d8b&currStreakLabel=feb7d3&sideLabels=c9d1d9&dates=555555&currStreakNum=feb7d3&sideNums=feb7d3" />
 </p>
 
