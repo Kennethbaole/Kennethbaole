@@ -17,7 +17,7 @@
 
 ### ${\color{#e93c65}\text{About Me}}$
 
-Computer Science student at UCF graduating May 2027. I like building things — whether that's REST APIs, ML models, or songs on guitar. Previously interned at Florida Blue, did AI/ML research at UCF's PERL and ISUE labs, and won 1st place at Knight Hacks VII. As former Sponsorship Director at [Knight Hacks]([https://knighthacks.org](https://blade.knighthacks.org/)), I secured $65K+ in corporate sponsorships and doubled the org's budget.
+Computer Science student at UCF graduating May 2027. I like building things — whether that's REST APIs, ML models, or songs on guitar. Previously interned at BNY and Florida Blue, did AI/ML research at UCF's PERL and ISUE labs, and won 1st place at Knight Hacks VII. As former Sponsorship Director at [Knight Hacks]([https://knighthacks.org](https://blade.knighthacks.org/)), I secured $65K+ in corporate sponsorships and doubled the org's budget.
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=feb7d3&height=1" />
